@@ -1,0 +1,918 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <!-- ==============================================
+        Basic Page Needs
+        =============================================== -->
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+
+        <title>Leverage - Your next level of website building</title>
+
+        <meta name="description" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
+        <meta name="subject" content="Creative Agency, Portfolio, Corporate, Startup & Technology">
+        <meta name="author" content="Codings">
+
+        <!-- ==============================================
+        Favicons
+        =============================================== -->
+        <link rel="shortcut icon" href="assets/images/favicon.ico">
+        <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-touch-icon-114x114.png">
+
+        <!-- ==============================================
+        Vendor Stylesheet
+        =============================================== -->
+        <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/vendor/slider.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/vendor/icons.min.css">
+        <link rel="stylesheet" href="assets/css/vendor/animation.min.css">
+        <link rel="stylesheet" href="assets/css/vendor/gallery.min.css">
+        <link rel="stylesheet" href="assets/css/vendor/cookie-notice.min.css">
+
+        <!-- ==============================================
+        Custom Stylesheet
+        =============================================== -->
+        <link rel="stylesheet" href="assets/css/default.css">
+        <link rel="stylesheet" href="assets/css/theme-pink.css">
+
+        <!-- ==============================================
+        Theme Settings
+        =============================================== -->
+        <style>
+            :root {
+                --primary-color: #dd1e4b;
+                --secondary-color: #E0040B;
+
+                --header-bg-color: #16161c;
+                --nav-item-color: #f5f5f5;
+                --top-nav-item-color: #f5f5f5;
+                --hero-bg-color: #111111;
+
+                --section-1-bg-color: #191919;
+
+                --card-bg-color: #16161c;
+            
+                --footer-bg-color: #111117;
+            }
+
+            body {
+                background-color: #191919;
+            }
+
+            header .navbar-sticky {
+                opacity: 0;
+            }
+
+            h1, .slide-content .title {
+                font-size: 5rem;
+                max-width: 1040px;
+                margin: auto;
+            }
+
+            h4 {
+                font-size: 1.4rem;
+            }
+
+            h5 {
+                font-size: 1.2rem;
+                font-weight: 500;
+                color: var(--primary-p-color);
+            }
+
+            .thin {
+                font-weight: 400;
+            }
+
+            header .navbar-expand .navbar-brand i.version-number {
+                color: #dd1e4b;
+            }
+
+            .btn.bigger {
+                font-family: "Default";
+                font-size: 1.2rem;
+            }
+
+            header .primary-button:hover,
+            .hero .primary-button:hover {
+                background-image: none;
+                background-color: #dd1e4b;
+                border-color: #dd1e4b;
+            }
+
+            .hero .effect-static-text {
+                color: #f5f5f5;
+                -webkit-text-fill-color: #f5f5f5;
+                background: none;
+            }
+
+            .hero .icon {
+                color: var(--primary-color);
+            }
+
+            section.featured:after {
+                content: '';
+                position: absolute;
+                z-index: 2;
+                bottom: -50px;
+                left: 50%;
+                left: calc(50% - 2.5px);
+                width: 5px;
+                height: 100px;
+                background-image: -webkit-linear-gradient(45deg, #dd1e4b 15%, #E0040B 65%);
+                background-image: linear-gradient(45deg, #dd1e4b 15%, #E0040B 65%);
+            }
+
+            .offers .card {
+                padding: 35px 35px 40px;
+            }
+
+            .showcase .card .image-over img {
+                height: auto;
+            }
+
+            .showcase .card:hover .image-over:before,
+            .showcase .card:not(.no-hover):hover {
+                background: -webkit-linear-gradient(45deg, #040402 15%, #111111 65%);
+                background: linear-gradient(45deg, #040402 15%, #111111 65%);
+            }
+
+            .showcase .card .btn.smaller {
+                width: 50%;
+            }
+
+            .showcase .card .btn.smaller:last-child {
+                margin: 0 0 0 5px;
+            }
+            
+            .showcase .card .btn.smaller:first-child {
+                margin: 0 5px 0 0;
+            }
+
+            @media(max-width: 768px) {
+                .showcase .card .btn.smaller {
+                    width: fit-content;
+                }
+            }
+
+            .gdpr-cookie-notice {
+                display: none;
+            }
+
+            .pretitle {
+                display: block;
+                margin: 0 0 1rem;
+                color: var(--primary-color);
+            }
+
+            @media(max-width: 1024px) {
+                .hide-1024 {
+                    display: none;
+                }
+            }
+        </style>
+        
+    </head>
+
+    <body>
+
+        <!-- Preloader -->
+        <div data-timeout="3000" class="odd preloader counter">
+            <div data-aos="fade-up" data-aos-delay="200" class="row justify-content-center text-center items">
+                <div data-percent="100" class="radial">
+                    <span></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header id="header">
+
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand navbar-fixed">
+                <div class="container header">
+
+                    <!-- Navbar Brand-->
+                    <a class="navbar-brand" href="index.htm">
+                        Leverage<i class="version-number">2.1</i>
+                        <!-- 
+                            Custom Logo
+                            <img src="assets/images/logo.svg" alt="Leverage">
+                        -->
+                    </a>
+
+                    <!-- Nav holder -->
+                    <div class="ml-auto"></div>
+
+                    <!-- Navbar Action -->
+                    <ul class="navbar-nav action">
+                        <li class="nav-item ml-3">
+                            <a href="https://themeforest.net/item/leverage-creative-agency-corporate-and-startups-multipurpose-template/25988106" target="_blank" class="btn ml-lg-auto primary-button"><i class="icon-rocket"></i>BUY NOW</a>
+                            <!-- 
+                                Suggestion: Replace the purchase button above with a contact button.
+                                
+                                <a href="#contact" class="smooth-anchor btn ml-lg-auto primary-button"><i class="icon-rocket"></i>CONTACT US</a>
+                            -->
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+        </header>
+
+        <!-- Hero -->
+        <section id="slider" class="hero p-0 odd featured">
+            <div class="swiper-container no-slider slider-h-100">
+                <div class="swiper-wrapper">
+
+                    <!-- Item 1 -->
+                    <div class="swiper-slide slide-center">
+
+                        <video class="full-image" data-mask="10" playsinline="" autoplay="" muted="" loop="">
+                            <source src="assets/videos/colors.mp4" type="video/mp4">
+                        </video> 
+
+                        <div class="slide-content row text-center">
+                            <div class="col-12 mx-auto inner">
+                                <div class="center align-self-center text-center">
+
+                                    <h1 class="title effect-static-text">Authentic, Fast & Easy.</h1>
+                                    
+                                    <div class="hide-1024 row mt-4 justify-content-center text-center items">
+                                        <div class="col-12 col-md-6 col-lg-4 item">
+                                            <div class="card no-hover">
+                                                <i class="icon icon-cup"></i>
+                                                <h4>20+ Pre-built Websites</h4>
+                                                <p>Allow yourself to have the most amazing website ever. Your customer will love it.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-6 col-lg-4 item">
+                                            <div class="card no-hover">
+                                                <i class="icon icon-rocket"></i>
+                                                <h4>Form Validation</h4>
+                                                <p>Save time with ready-to-use forms with Google reCAPCTHA validation and mail send.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-6 col-lg-4 item">
+                                            <div class="card no-hover">
+                                                <i class="icon icon-shield"></i>
+                                                <h4>GDPR Ready</h4>
+                                                <p>It is now required! Warn visitor that your site uses cookies and complies with GDPR.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <a href="#demos" class="smooth-anchor ml-auto mr-auto mt-5 btn bigger primary-button">SEE ALL DEMOS</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Demos -->
+        <section id="demos" class="section-1 showcase portfolio blog-grid odd featured filter-section">
+            <div class="overflow-holder">
+                <div class="container full-grid">
+                    <div class="row text-center intro">
+                        <div class="col-12">
+                            <span class="pretitle">The most authentic template on the market</span>
+                            <h2>Build Something Today</h2>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center text-center">
+                        <div class="col-12">
+                            <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                                <label class="btn active">
+                                    <input type="radio" value="all" checked="" class="btn-filter-item">
+                                    <span>All</span>
+                                </label>
+                                <label class="btn">
+                                    <input type="radio" value="agency" class="btn-filter-item">
+                                    <span>Agency</span>
+                                </label>
+                                <label class="btn">
+                                    <input type="radio" value="portfolio" class="btn-filter-item">
+                                    <span>Portfolio</span>
+                                </label>
+                                <label class="btn">
+                                    <input type="radio" value="showcase" class="btn-filter-item">
+                                    <span>Showcase</span>
+                                </label>
+                                <label class="btn">
+                                    <input type="radio" value="business" class="btn-filter-item">
+                                    <span>Business</span>
+                                </label>
+                                <label class="btn">
+                                    <input type="radio" value="event" class="btn-filter-item">
+                                    <span>Event</span>
+                                </label>
+                                <label class="btn">
+                                    <input type="radio" value="product" class="btn-filter-item">
+                                    <span>Product</span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Grid -->
+                    <div class="row items filter-items">
+
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "product"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-2.jpg" alt="Demo 2">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 2</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, product                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-2.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-2-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "event"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-1.jpg" alt="Demo 1">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 1</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, event                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-1.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-1-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "business"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-10.jpg" alt="Demo 10">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 10</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, business                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-10.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-10-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "business"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-4.jpg" alt="Demo 4">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 4</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, business                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-4.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-4-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "portfolio"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-7.jpg" alt="Demo 7">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 7</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, portfolio                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-7.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-7-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "product", "business"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-6.jpg" alt="Demo 6">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 6</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, product                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-6.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-6-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "event", "business"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-5.jpg" alt="Demo 5">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 5</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, business                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-5.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-5-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "product"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-14.jpg" alt="Demo 14">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 14</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, product                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-14.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-14-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "showcase"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-16.jpg" alt="Demo 16">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 16</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, showcase                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-16.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-16-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "showcase"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-15.jpg" alt="Demo 15">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 15</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, showcase                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-15.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-15-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "agency"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-11.jpg" alt="Demo 11">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 11</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, agency                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-11.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-11-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "business"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-20.jpg" alt="Demo 20">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 20</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, business                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-20.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-20-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "product"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-12.jpg" alt="Demo 12">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 12</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, product                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-12.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-12-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "showcase"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-17.jpg" alt="Demo 17">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 17</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, showcase                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-17.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-17-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "event"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-8.jpg" alt="Demo 8">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 8</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, event                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-8.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-8-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "business"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-19.jpg" alt="Demo 19">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 19</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, business                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-19.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-19-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "showcase"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-18.jpg" alt="Demo 18">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 18</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, showcase                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-18.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-18-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "product"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-9.jpg" alt="Demo 9">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 9</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, product                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-9.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-9-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["portfolio", "event"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-13.jpg" alt="Demo 13">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 13</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        portfolio, event                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-13.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-13-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                                <div class="col-12 col-md-6 col-lg-3 item filter-item" data-groups='["agency", "portfolio"]'>
+                            <div class="row card p-0 text-center">
+                                <div class="image-over">
+                                    <img src="assets/images-intro/demo-3.jpg" alt="Demo 3">
+                                </div>
+                                <div class="card-caption col-12 p-0">
+                                    <div class="card-body">
+                                        <h4 class="m-0">Demo 3</h4>
+                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        agency, portfolio                                    </div>
+                                    <div class="card-footer d-lg-flex align-items-center justify-content-center">
+                                        <a href="home-3.html" target="_blank" class="btn smaller primary-button">Multi-Page</a>
+                                        <a href="home-3-one-page.html" target="_blank" class="btn smaller primary-button">One-Page</a>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div>
+                                            </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Buy Now -->
+        <section class="hero p-0 odd">
+            <div class="swiper-container no-slider slider-h-100">
+                <div class="swiper-wrapper">
+
+                    <!-- Item 1 -->
+                    <div class="swiper-slide slide-center">
+
+                        <!-- Particles -->
+                        <div id="particles-1" class="particles full-image" data-particle="bubble" data-mask="70"></div>  
+
+                        <div class="slide-content row text-center">
+                            <div class="col-12 mx-auto inner">
+                                <div class="center align-self-center text-center">
+
+                                    <h2 class="title effect-static-text">You will love it. 😍</h2>
+                                    
+                                    <div class="hide-1024 row mt-4 justify-content-center text-center items">
+                                        <div class="col-12 col-md-6 col-lg-4 item">
+                                            <div class="card no-hover">
+                                                <i class="icon icon-trophy"></i>
+                                                <h4>100% Approval</h4>
+                                                <p>Leverage is the most innovative and best rated HTML template between 2021-2023.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-6 col-lg-4 item">
+                                            <div class="card no-hover">
+                                                <i class="icon icon-login"></i>
+                                                <h4>Multi-Step Form</h4>
+                                                <p>Leverage is the only one in the entire market that includes a stunning multi-step form.</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-6 col-lg-4 item">
+                                            <div class="card no-hover">
+                                                <i class="icon icon-equalizer"></i>
+                                                <h4>Flawless Design</h4>
+                                                <p>Leverage has incredible ratings on the beauty and organization of the source code. It's perfect!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="buttons mt-4 d-sm-inline-flex justify-content-center">
+                                    <a href="https://themeforest.net/checkout/from_item/25988106?license=regular" target="_blank" class="mx-auto ml-sm-0 mr-sm-0 mt-4 btn primary-button">BUY NOW</a>
+                                    <a href="https://themeforest.net/item/leverage-creative-agency-corporate-and-startups-multipurpose-template/25988106" target="_blank" class="mx-auto ml-sm-4 mr-sm-0 mt-4 btn dark-button">GO TO ITEM PAGE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- #region Global ============================ -->
+
+        <!-- Modal [search] -->
+        <div id="search" class="p-0 modal fade" role="dialog" aria-labelledby="search" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-slideout" role="document">
+                <div class="modal-content full">
+                    <div class="modal-header" data-dismiss="modal">
+                        Search <i class="icon-close"></i>
+                    </div>
+                    <div class="modal-body">
+                        <form class="row">
+                            <div class="col-12 p-0 align-self-center">
+                                <div class="row">
+                                    <div class="col-12 p-0 pb-3">
+                                        <h2>What are you looking for?</h2>
+                                        <p>Search for services and news about the best that happens in the world.</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="text" class="form-control" placeholder="Enter Keywords">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 p-0 input-group align-self-center">
+                                        <button class="btn primary-button"><i class="icon-magnifier"></i>SEARCH</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal [sign] -->
+        <div id="sign" class="p-0 modal fade" role="dialog" aria-labelledby="sign" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-slideout" role="document">
+                <div class="modal-content full">
+                    <div class="modal-header" data-dismiss="modal">
+                        Sign In Form <i class="icon-close"></i>
+                    </div>
+                    <div class="modal-body">
+                        <form action="/" class="row">
+                            <div class="col-12 p-0 align-self-center">
+                                <div class="row">
+                                    <div class="col-12 p-0 pb-3">
+                                        <h2>Sign In</h2>
+                                        <p>Don't have an account? <a href="#" class="primary-color" data-toggle="modal" data-target="#register">Register now</a>.</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="email" class="form-control" placeholder="Email" required="">
+                                    </div>
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="password" class="form-control" placeholder="Password" required="">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 p-0 input-group align-self-center">
+                                        <button class="btn primary-button"><i class="icon-login"></i>LOGIN</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal [register] -->
+        <div id="register" class="p-0 modal fade" role="dialog" aria-labelledby="register" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-slideout" role="document">
+                <div class="modal-content full">
+                    <div class="modal-header" data-dismiss="modal">
+                        Register Form <i class="icon-close"></i>
+                    </div>
+                    <div class="modal-body">
+                        <form action="/" class="row">
+                            <div class="col-12 p-0 align-self-center">
+                                <div class="row">
+                                    <div class="col-12 p-0 pb-3">
+                                        <h2>Register</h2>
+                                        <p>Have an account? <a href="#" class="primary-color" data-toggle="modal" data-target="#sign">Sign In</a>.</p>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="text" class="form-control" placeholder="Name" required="">
+                                    </div>
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="email" class="form-control" placeholder="Email" required="">
+                                    </div>
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="password" class="form-control" placeholder="Password" required="">
+                                    </div>
+                                    <div class="col-12 p-0 input-group">
+                                        <input type="password" class="form-control" placeholder="Confirm Password" required="">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-12 p-0 input-group align-self-center">
+                                        <button class="btn primary-button"><i class="icon-rocket"></i>REGISTER</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal [responsive menu] -->
+        <div id="menu" class="p-0 modal fade" role="dialog" aria-labelledby="menu" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-slideout" role="document">
+                <div class="modal-content full">
+                    <div class="modal-header" data-dismiss="modal">
+                        Menu <i class="icon-close"></i>
+                    </div>
+                    <div class="menu modal-body">
+                        <div class="row w-100">
+                            <div class="items p-0 col-12 text-center">
+                                <!-- Append [navbar] -->
+                            </div>
+                            <div class="contacts p-0 col-12 text-center">
+                                <!-- Append [navbar] -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Scroll [to top] -->
+        <div id="scroll-to-top" class="scroll-to-top">
+            <a href="#header" class="smooth-anchor">
+                <i class="icon-arrow-up"></i>
+            </a>
+        </div>        
+        
+        <!-- ==============================================
+        Google reCAPTCHA // Put your site key here
+        =============================================== -->
+        <script src="recaptcha/api.js?render=6Lf-NwEVAAAAAPo_wwOYxFW18D9_EKvwxJxeyUx7"></script>
+
+        <!-- ==============================================
+        Vendor Scripts
+        =============================================== -->
+        <script src="assets/js/vendor/jquery.min.js"></script>
+        <script src="assets/js/vendor/jquery.easing.min.js"></script>
+        <script src="assets/js/vendor/jquery.inview.min.js"></script>
+        <script src="assets/js/vendor/popper.min.js"></script>
+        <script src="assets/js/vendor/bootstrap.min.js"></script>
+        <script src="assets/js/vendor/ponyfill.min.js"></script>
+        <script src="assets/js/vendor/slider.min.js"></script>
+        <script src="assets/js/vendor/animation.min.js"></script>
+        <script src="assets/js/vendor/progress-radial.min.js"></script>
+        <script src="assets/js/vendor/bricklayer.min.js"></script>
+        <script src="assets/js/vendor/gallery.min.js"></script>
+        <script src="assets/js/vendor/shuffle.min.js"></script>
+        <script src="assets/js/vendor/cookie-notice.min.js"></script>
+        <script src="assets/js/vendor/particles.min.js"></script>
+        <script src="assets/js/main.js"></script>
+
+        <!-- #endregion Global ========================= -->
+
+    </body>
+</html>

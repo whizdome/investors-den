@@ -1,0 +1,1016 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://leverage-html.codings.dev/
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\index.htm
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/assets/css/default.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\default.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/main.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\main.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-black.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-black.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-blue.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-blue.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-green.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-green.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-indigo.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-indigo.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-light-blue.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-light-blue.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-light-green.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-light-green.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-orange.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-orange.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-pink.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-pink.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-white-blue.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-white-blue.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-white.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-white.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/theme-yellow.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\theme-yellow.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/animation.min.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\animation.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/cookie-notice.min.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\cookie-notice.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/default-font.min.css?family=Default:300,400,600,700,800,900
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\default-font.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/gallery.min.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\gallery.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/icons.min.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\icons.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/css/vendor/slider.min.css
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\css\vendor\slider.min.css
+Content Type: text/css
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Black.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Black.woff
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Black.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Bold.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Bold.woff
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Extrabold.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Extrabold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Extrabold.woff
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Heavy.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Heavy.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Heavy.woff
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Light.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Light.woff
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Light.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Regular.ttf
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/default-font/Default-Regular.woff
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\default-font\Default-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/gallery/Gallery.eot?
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\gallery\Gallery-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leverage-html.codings.dev/assets/fonts/gallery/Gallery.eot?n1z373
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\gallery\Gallery.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leverage-html.codings.dev/assets/fonts/gallery/Gallery.svg?n1z373
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\gallery\Gallery.svg
+Content Type: image/svg+xml
+
+Uri: https://leverage-html.codings.dev/assets/fonts/gallery/Gallery.ttf?n1z373
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\gallery\Gallery.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/gallery/Gallery.woff?n1z373
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\gallery\Gallery.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/fonts/icons/Icons-Line.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\icons\Icons-Line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://leverage-html.codings.dev/assets/fonts/icons/Icons-Line.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\icons\Icons-Line.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://leverage-html.codings.dev/assets/fonts/icons/Icons-Line.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\icons\Icons-Line.woff2
+Content Type: font/woff2
+
+Uri: https://leverage-html.codings.dev/assets/fonts/icons/Icons-Line.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\fonts\icons\Icons-Line.woff
+Content Type: application/font-woff
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-10.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-10.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-11.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-11.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-12.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-12.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-13.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-13.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-14.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-14.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-15.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-15.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-16.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-16.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-17.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-17.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-18.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-18.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-19.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-19.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-2.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-20.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-20.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-6.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-6.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-7.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-7.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-8.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-8.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images-intro/demo-9.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images-intro\demo-9.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-10.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-10.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-12.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-12.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-14.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-14.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-6.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-6.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-7.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-7.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-8.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-8.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-9.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-9.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/about-leverage.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\about-leverage.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-10.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-10.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-7.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-7.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-8.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-8.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/bg-9.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\bg-9.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-1.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-1.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-2.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-2.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-3.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-3.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-4.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-4.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-5.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-5.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-6.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-6.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-7.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-7.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/featured-8.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\featured-8.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-11.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-11.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-13.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-13.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-2.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-6.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-6.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-7.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-7.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-8.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-8.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/hero-9.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\hero-9.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/loading.gif
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-1.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-1.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-2.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-2.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-3.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-3.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-4.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-4.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-5.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-5.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-6.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-6.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-7.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-7.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/logo-8.png
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\logo-8.png
+Content Type: image/png
+
+Uri: https://leverage-html.codings.dev/assets/images/news-1-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-1-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-10-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-10-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-11-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-11-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-12-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-12-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-2-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-2-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-3-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-3-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-4-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-4-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-5-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-5-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-6-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-6-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-7-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-7-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-8-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-8-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/news-9-h.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\news-9-h.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/portfolio-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/portfolio-2.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/portfolio-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/portfolio-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/portfolio-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/portfolio-6.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/team-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/team-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/team-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-1.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-1.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-2.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-2.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-3.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-3.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-4.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-4.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-5.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-5.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-6.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-6.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-7.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-7.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-8.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-8.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/images/work-9.jpg
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\images\work-9.jpg
+Content Type: image/jpeg
+
+Uri: https://leverage-html.codings.dev/assets/js/main.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/animation.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\animation.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/bricklayer.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\bricklayer.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/cookie-notice.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\cookie-notice.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/gallery.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\gallery.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\jquery.easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/jquery.inview.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\jquery.inview.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/particles.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\particles.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/ponyfill.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\ponyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/popper.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/progress-radial.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\progress-radial.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/shuffle.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\shuffle.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/js/vendor/slider.min.js
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\js\vendor\slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://leverage-html.codings.dev/assets/videos/colors.mp4
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\videos\colors.mp4
+Content Type: video/mp4
+
+Uri: https://leverage-html.codings.dev/assets/videos/ink.mp4
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\videos\ink.mp4
+Content Type: video/mp4
+
+Uri: https://leverage-html.codings.dev/assets/videos/lens.mp4
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\videos\lens.mp4
+Content Type: video/mp4
+
+Uri: https://leverage-html.codings.dev/assets/videos/makeup.mp4
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\videos\makeup.mp4
+Content Type: video/mp4
+
+Uri: https://leverage-html.codings.dev/assets/videos/project.mp4
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\assets\videos\project.mp4
+Content Type: video/mp4
+
+Uri: https://leverage-html.codings.dev/dark-landing-page-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\dark-landing-page-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/dark-landing-page-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\dark-landing-page-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/dark-landing-page-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\dark-landing-page-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/dark-service-request-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\dark-service-request-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/dark-service-request-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\dark-service-request-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/dark-service-request-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\dark-service-request-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/extra-navbar-fixed.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\extra-navbar-fixed.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/extra-navbar-flexible.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\extra-navbar-flexible.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/extra-navbar-relative.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\extra-navbar-relative.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/extra-preloader
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\extra-preloader.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-1-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-1-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-10-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-10-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-10.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-10.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-11-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-11-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-11.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-11.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-12-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-12-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-12.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-12.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-13-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-13-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-13.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-13.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-14-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-14-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-14.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-14.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-15-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-15-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-15.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-15.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-16-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-16-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-16.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-16.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-17-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-17-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-17.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-17.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-18-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-18-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-18.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-18.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-19-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-19-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-19.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-19.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-2-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-2-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-20-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-20-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-20.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-20.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-3-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-3-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-4-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-4-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-4.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-4.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-5-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-5-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-5.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-5.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-6-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-6-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-6.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-6.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-7-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-7-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-7.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-7.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-8-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-8-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-8.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-8.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-9-one-page.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-9-one-page.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/home-9.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\home-9.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/light-landing-page-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\light-landing-page-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/light-landing-page-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\light-landing-page-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/light-landing-page-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\light-landing-page-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/light-service-request-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\light-service-request-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/light-service-request-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\light-service-request-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/light-service-request-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\light-service-request-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-about-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-about-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-about-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-about-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-blog-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-blog-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-blog-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-blog-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-blog-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-blog-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-blog-4.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-blog-4.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-contact-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-contact-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-portfolio-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-portfolio-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-portfolio-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-portfolio-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-pricing-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-pricing-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-services-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-services-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-portfolio-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-portfolio-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-portfolio-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-portfolio-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-post-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-post-1.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-post-2.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-post-2.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-post-3.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-post-3.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-post-4.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-post-4.html
+Content Type: text/html
+
+Uri: https://leverage-html.codings.dev/page-single-service-1.html
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\page-single-service-1.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Lf-NwEVAAAAAPo_wwOYxFW18D9_EKvwxJxeyUx7
+File Name: C:\Downloaded Web Sites\leverage-html.codings.dev\recaptcha\api.js
+Content Type: text/javascript
+
