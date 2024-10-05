@@ -34,17 +34,18 @@
   <style>
     :root {
       --header-bg-color: #242c44;
-      --nav-item-color: #86c469;
-      --top-nav-item-color: #86c469;
+      --nav-item-color: #0ACA17;
+      --top-nav-item-color: #0ACA17;
       --hero-bg-color: #242c44;
-      --section-1-bg-color: #86c469;
+      --section-1-bg-color: #0ACA17;
       --section-2-bg-color: #f5f5f5;
       --section-3-bg-color: #242c44;
       --section-4-bg-color: #f5f5f5;
       --section-5-bg-color: #242c44;
-      --section-6-bg-color: #86c469;
+      --section-6-bg-color: #0ACA17;
       --footer-bg-color: #242c44;
     }
+
     body {
       font-family: 'Poppins', sans-serif;
     }
@@ -88,6 +89,57 @@
     #video {
       font-family: 'Roboto', sans-serif;
     }
+
+    .btn {
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 100%; /* Make buttons take full width of their column */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .svg-icon {
+      width: 20px;  /* Resized to a reasonable size */
+      height: 20px;
+      margin-right: 8px;  /* Space between the logo and text */
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      border: none;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background-color: #0056b3;
+    }
+
+    .btn-success {
+      background-color: #28a745;
+      border: none;
+      color: white;
+    }
+
+    .btn-success:hover {
+      background-color: #218838;
+    }
+
+    .col-5 {
+      display: flex;
+      justify-content: center;
+
+    a.btn {
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    }
+
   </style>
 
 </head>
@@ -166,10 +218,30 @@
                    class="video-thumbnail d-flex justify-content-center align-items-center position-relative">
                   <!-- Font Awesome Play Icon -->
                   <i class="fas fa-play-circle position-absolute"></i>
-                  <img src="assets/images/about-us.png" class="fit-image rounded" alt="About the Advanced Course">
+                  <img src="assets/images/advanced_course.jpg" class="fit-image rounded" alt="About the Advanced Course">
                 </a>
               </div>
             </div>
+            <!-- Payment Buttons -->
+            <!-- Payment Buttons with SVG -->
+            <div class="row justify-content-between text-center mt-4">
+              <div class="col-5 text-right">
+                <a href="https://flutterwave.com/pay/8mjncqdvdkmc" class="btn btn-primary">
+                  <!-- SVG Logo for Cash Payment -->
+                  <img src="assets/images/flutterwave.svg" alt="Cash Logo" class="svg-icon">
+                  Pay with Cash
+                </a>
+
+              </div>
+              <div class="col-5 text-left">
+                <a href="https://nowpayments.io/payment/?iid=6030968992" class="btn btn-primary">
+                  <!-- SVG Logo for Crypto Payment -->
+                  <img src="assets/images/Now_logo.svg" alt="Crypto Logo" class="svg-icon">
+                  Pay with Crypto
+                </a>
+              </div>
+            </div>
+
           </div>
         </section>
 
